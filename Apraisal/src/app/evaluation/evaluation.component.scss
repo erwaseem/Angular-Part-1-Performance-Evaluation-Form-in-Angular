@@ -1,0 +1,12 @@
+input[type=radio]
+{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: -3px;
+    margin-right: 5px;
+}
+.form-check-input:checked {
+    background-color: #303f9f;
+    border-color: #303f9f;
+}
